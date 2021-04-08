@@ -1,0 +1,14 @@
+{
+	"banner": "ca-app-pub-5781005075030098/6570725084",
+	"banner_show": "true",
+	"interstitial": "ca-app-pub-5781005075030098/7029696567",
+	"interstitial_show": "true",
+	"interstitial_count": "3",
+	"native": "ca-app-pub-5781005075030098/4287164914",
+	"native_show": "false",
+	"interval_native": "200",
+	"open_app": "ca-app-pub-5781005075030098/9539491597",
+	"open_app_show": "true",
+	"package_name": "com.harmonicpro.djimut2021",
+	"status": "0"
+}
