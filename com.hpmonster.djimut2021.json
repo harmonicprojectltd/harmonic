@@ -1,0 +1,14 @@
+{
+	"banner": "ca-app-pub-5781005075030098/5758633457",
+	"banner_show": "true",
+	"interstitial": "ca-app-pub-5781005075030098/1656076227",
+	"interstitial_show": "true",
+	"interstitial_count": "3",
+	"native": "ca-app-pub-5781005075030098/4287164914",
+	"native_show": "false",
+	"interval_native": "200",
+	"open_app": "ca-app-pub-5781005075030098/5360012353",
+	"open_app_show": "true",
+	"package_name": "com.hpmonster.djimut2021",
+	"status": "0"
+}
