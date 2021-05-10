@@ -1,14 +1,14 @@
 {
 	"banner": "ca-app-pub-5781005075030098/6887193936",
-	"banner_show": "true",
+	"banner_show": "false",
 	"interstitial": "ca-app-pub-5781005075030098/2756377232",
-	"interstitial_show": "true",
+	"interstitial_show": "false",
 	"interstitial_count": "3",
 	"native": "ca-app-pub-5781005075030098/4287164914",
 	"native_show": "false",
 	"interval_native": "200",
 	"open_app": "ca-app-pub-5781005075030098/9739398615",
-	"open_app_show": "true",
+	"open_app_show": "false",
 	"package_name": "com.felixirwanhp.hit2021",
 	"status": "0"
 }
