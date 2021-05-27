@@ -1,6 +1,6 @@
 {
 	"banner": "ca-app-pub-5781005075030098/3742225654",
-	"banner_show": "true",
+	"banner_show": "false",
 	"interstitial": "ca-app-pub-5781005075030098/2648635831",
 	"interstitial_show": "false",
 	"interstitial_count": "20",
@@ -8,7 +8,7 @@
 	"native_show": "false",
 	"interval_native": "200",
 	"open_app": "ca-app-pub-5781005075030098/5964214256",
-	"open_app_show": "true",
+	"open_app_show": "false",
 	"package_name": "com.hpdjcantiktiktok.terbaik2021",
 	"status": "0"
 }
