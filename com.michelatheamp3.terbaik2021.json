@@ -1,14 +1,14 @@
 {
 	"banner": "ca-app-pub-5781005075030098/6708048772",
-	"banner_show": "false",
+	"banner_show": "true",
 	"interstitial": "ca-app-pub-5781005075030098/3698742057",
-	"interstitial_show": "false",
+	"interstitial_show": "true",
 	"interstitial_count": "3",
 	"native": "ca-app-pub-5781005075030098/4287164914",
 	"native_show": "false",
 	"interval_native": "200",
 	"open_app": "ca-app-pub-5781005075030098/5015693157",
-	"open_app_show": "false",
+	"open_app_show": "true",
 	"package_name": "com.michelatheamp3.terbaik2021",
 	"status": "0"
 }
