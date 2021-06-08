@@ -3,7 +3,7 @@
 	"banner_show": "true",
 	"interstitial": "ca-app-pub-5781005075030098/5181453928",
 	"interstitial_show": "true",
-	"interstitial_count": "20",
+	"interstitial_count": "3",
 	"native": "ca-app-pub-5781005075030098/4287164914",
 	"native_show": "false",
 	"interval_native": "200",
