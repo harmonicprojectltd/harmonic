@@ -2,13 +2,13 @@
 	"banner": "ca-app-pub-5781005075030098/7816852989",
 	"banner_show": "true",
 	"interstitial": "ca-app-pub-5781005075030098/3877607978",
-	"interstitial_show": "false",
+	"interstitial_show": "true",
 	"interstitial_count": "3",
 	"native": "ca-app-pub-5781005075030098/4287164914",
 	"native_show": "false",
 	"interval_native": "200",
 	"open_app": "ca-app-pub-5781005075030098/8052640795",
-	"open_app_show": "false",
+	"open_app_show": "true",
 	"package_name": "com.harmonicpro.djdesa2021",
 	"status": "0"
 }
