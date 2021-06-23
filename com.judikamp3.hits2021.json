@@ -2,13 +2,13 @@
 	"banner": "ca-app-pub-5781005075030098/7420788236",
 	"banner_show": "true",
 	"interstitial": "ca-app-pub-5781005075030098/4794624897",
-	"interstitial_show": "false",
+	"interstitial_show": "true",
 	"interstitial_count": "3",
 	"native": "ca-app-pub-5781005075030098/5700404656",
 	"native_show": "false",
 	"interval_native": "200",
 	"open_app": "ca-app-pub-5781005075030098/5895953575",
-	"open_app_show": "false",
+	"open_app_show": "true",
 	"package_name": "com.judikamp3.hits2021",
 	"status": "0"
 }
