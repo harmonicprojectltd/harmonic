@@ -1,13 +1,13 @@
 {
-	"banner": "ca-app-pub-5781005075030098/6570725084",
+	"banner": "ca-app-pub-5781005075030098/5004936863",
 	"banner_show": "true",
-	"interstitial": "ca-app-pub-5781005075030098/7029696567",
+	"interstitial": "ca-app-pub-5781005075030098/3130610239",
 	"interstitial_show": "true",
 	"interstitial_count": "3",
 	"native": "",
 	"native_show": "false",
 	"interval_native": "200",
-	"open_app": "ca-app-pub-5781005075030098/9539491597",
+	"open_app": "ca-app-pub-5781005075030098/8889724440",
 	"open_app_show": "true",
 	"package_name": "com.harmonicpro.djimut2021",
 	"status": "0"
