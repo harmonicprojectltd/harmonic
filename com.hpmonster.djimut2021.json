@@ -1,13 +1,13 @@
 {
-	"banner": "ca-app-pub-5781005075030098/5758633457",
+	"banner": "ca-app-pub-5781005075030098/3561855077",
 	"banner_show": "true",
-	"interstitial": "ca-app-pub-5781005075030098/1656076227",
+	"interstitial": "ca-app-pub-5781005075030098/3289913405",
 	"interstitial_show": "true",
 	"interstitial_count": "3",
 	"native": "",
 	"native_show": "false",
 	"interval_native": "200",
-	"open_app": "ca-app-pub-5781005075030098/5360012353",
+	"open_app": "ca-app-pub-5781005075030098/1976831733",
 	"open_app_show": "true",
 	"package_name": "com.hpmonster.djimut2021",
 	"status": "0"
