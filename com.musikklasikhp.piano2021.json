@@ -1,13 +1,13 @@
 {
-	"banner": "ca-app-pub-5781005075030098/4711546603",
+	"banner": "ca-app-pub-5781005075030098/4451785982",
 	"banner_show": "true",
-	"interstitial": "ca-app-pub-5781005075030098/8417011410",
+	"interstitial": "ca-app-pub-5781005075030098/8790131028",
 	"interstitial_show": "true",
 	"interstitial_count": "3",
 	"native": "",
 	"native_show": "false",
 	"interval_native": "200",
-	"open_app": "ca-app-pub-5781005075030098/7103929743",
+	"open_app": "ca-app-pub-5781005075030098/2000882464",
 	"open_app_show": "true",
 	"package_name": "com.musikklasikhp.piano2021",
 	"status": "0"
