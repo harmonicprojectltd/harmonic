@@ -1,14 +1,14 @@
 {
 	"banner": "ca-app-pub-5781005075030098/4216591077",
 	"banner_show": "true",
-	"interstitial": "",
-	"interstitial_show": "false",
+	"interstitial": "ca-app-pub-5781005075030098/1600044321",
+	"interstitial_show": "true",
 	"interstitial_count": "3",
 	"native": "",
 	"native_show": "false",
 	"interval_native": "200",
-	"open_app": "",
-	"open_app_show": "false",
+	"open_app": "ca-app-pub-5781005075030098/6406676119",
+	"open_app_show": "true",
 	"package_name": "com.papinkahp.terbaik2021",
 	"status": "0"
 }
