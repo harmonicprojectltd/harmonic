@@ -2,7 +2,7 @@
 	"banner": "ca-app-pub-5781005075030098/6738682752",
 	"banner_show": "true",
 	"interstitial": "ca-app-pub-5781005075030098/1578210630",
-	"interstitial_show": "true",
+	"interstitial_show": "false",
 	"interstitial_count": "3",
 	"native": "",
 	"native_show": "false",
