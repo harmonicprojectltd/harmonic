@@ -1,8 +1,8 @@
 {
 	"banner": "ca-app-pub-5781005075030098/1617739086",
-	"banner_show": "true",
+	"banner_show": "false",
 	"interstitial": "ca-app-pub-5781005075030098/6886377630",
-	"interstitial_show": "true",
+	"interstitial_show": "false",
 	"interstitial_count": "3",
 	"native": "",
 	"native_show": "false",
